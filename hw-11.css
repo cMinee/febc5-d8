@@ -3,6 +3,7 @@
     padding: 0;
     box-sizing: border-box;
     font-family: 'Roboto', sans-serif;
+    scroll-behavior: smooth;
 }
 
 .container {
@@ -28,25 +29,29 @@
 
 .header {
     grid-area: header;
-    background-image: url(https://www.shutterstock.com/shutterstock/photos/2273777581/display_1500/stock-vector-rock-music-colorful-seamless-pattern-with-skulls-and-acoustic-guitar-for-playing-hard-rock-songs-at-2273777581.jpg);
+    background-image: url(https://images.alphacoders.com/598/598655.png);
     /* background-color: #1a1d22; */
     background-repeat: no-repeat;
-    object-fit: cover;
+    background-position: center;
+    background-size: cover;
     color: rgb(255, 255, 255);
     height: 150px;
     align-content: center;
 }
 
-h1 {
+.header h1 {
     color: white;
-    text-shadow: 1px 1px 2px #1a1d22, 0 0 25px rgb(233, 0, 0), 0 0 5px rgb(139, 0, 0);
+    text-shadow: 1px 1px 2px #1a1d22, 0 0 25px rgb(255, 255, 255), 0 0 5px rgb(192, 192, 192);
 }
 
 .menu {
     grid-area: menu;
     background-color: rgb(255, 255, 255);
-    height: 50px;
+    height: 60px;
     align-content: center;
+    position: sticky;
+    top: 0;
+    z-index: 1;
 }
 
 .menu a {
@@ -152,11 +157,19 @@ grid-area: product12;
 .footer {
     grid-area: footer;
     background-color: white;
-    text-align: center;
+    text-align: start;
+    height: 100px;
+    align-content: center;
+    padding: 0px 30px;
+}
+
+h3 {
+    color: #7a3433;
+}
+
+.footer-contact {
     display: flex;
-    justify-content: space-around;
-    height: 50px;
-    align-items: center;
+    justify-content: start;
 }
 
 .product1, .product2, .product3, .product4, .product5, .product6, .product7,
@@ -191,7 +204,7 @@ div button:first-child{
     margin-right: 10px;
 }
 div button:first-child:hover{
-    background-color: #7c1b19;
+    background-color: #990705;
     color: aliceblue;
     box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.1);
     cursor: pointer;
@@ -199,11 +212,11 @@ div button:first-child:hover{
 }
 
 div button:last-child{
-    background-color: #f3e4c8;
+    background-color: #dadada;
     color: #1a1d22;
 }
 div button:last-child:hover{
-    background-color: #f5e0b9;
+    background-color: #acacac;
     color: #1a1d22;
     box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.1);
     cursor: pointer;
@@ -213,5 +226,55 @@ h4 a {
     cursor: pointer;
     text-decoration: none;
     color: #1a1d22;
-    border-bottom: 2px solid #ff2521;
+    background-color: #ffd2d2;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.1);
+    padding: 3px 8px;
+    border-radius: 50px;
 }
+
+h4 {
+    margin-right: 50px;
+}
+
+/* .dialog {
+    display: none; 
+    width: 500px;
+    background-color: white;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    padding: 20px;
+        position: fixed;
+        top: 50%;
+        left: 50%;
+    transform: translate(-50%, -50%);
+    z-index: 1;
+} */
+
+/* แสดง Dialog เมื่อมีการคลิกที่ #dialog */
+/* :target {
+    display: block;
+} */
+
+/* ปรับปุ่ม Close */
+/* .close-btn {
+    display: inline-block;
+    margin-top: 10px;
+    padding: 5px 10px;
+    background-color: #f44336;
+    color: white;
+    text-decoration: none;
+    border-radius: 50px;
+}
+
+.close-btn:hover {
+    background-color: #d32f2f;
+}
+
+.flex {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.flex h1 {
+    color: #1a1d22;
+} */
