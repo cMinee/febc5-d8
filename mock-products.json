@@ -1,0 +1,59 @@
+[
+    {
+      "id": 1,
+      "name": "Marshall Major V",
+      "description": "Marshall Major V Wireless On Ear Headphone",
+      "price": 5990,
+      "color": "Black",
+      "src": "https://mercular.s3.ap-southeast-1.amazonaws.com/images/products/2024/05/Product/marshall-major-v-wireless-on-ear-headphone-side-view.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Product B",
+      "description": "Description of Product B",
+      "price": 200,
+      "color": "Black",
+      "src": "https://tailwindui.com/plus/img/ecommerce-images/category-page-04-image-card-02.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Product C",
+      "description": "Description of Product C",
+      "price": 300,
+      "color": "Black",
+      "src": "https://tailwindui.com/plus/img/ecommerce-images/category-page-04-image-card-03.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Product C",
+      "description": "Description of Product C",
+      "price": 300,
+      "color": "Black",
+      "src": "https://tailwindui.com/plus/img/ecommerce-images/category-page-04-image-card-03.jpg"
+    },
+    {
+      "id": 5,
+      "name": "Product C",
+      "description": "Description of Product C",
+      "price": 300,
+      "color": "Black",
+      "src": "https://tailwindui.com/plus/img/ecommerce-images/category-page-04-image-card-03.jpg"
+    },
+    {
+      "id": 6,
+      "name": "Product C",
+      "description": "Description of Product C",
+      "price": 300,
+      "color": "Black",
+      "src": "https://tailwindui.com/plus/img/ecommerce-images/category-page-04-image-card-03.jpg"
+    },
+    {
+      "id": 7,
+      "name": "Product C",
+      "description": "Description of Product C",
+      "price": 300,
+      "color": "Black",
+      "src": "https://tailwindui.com/plus/img/ecommerce-images/category-page-04-image-card-03.jpg"
+    }
+  ]
+  
