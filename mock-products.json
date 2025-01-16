@@ -5,55 +5,96 @@
       "description": "Marshall Major V Wireless On Ear Headphone",
       "price": 5990,
       "color": "Black",
-      "src": "https://mercular.s3.ap-southeast-1.amazonaws.com/images/products/2024/05/Product/marshall-major-v-wireless-on-ear-headphone-side-view.jpg"
+      "type": "headphone",
+      "src": "https://mercular.s3.ap-southeast-1.amazonaws.com/images/products/2024/05/Product/marshall-major-v-wireless-on-ear-headphone-side-view.jpg",
+      "src2": "https://mercular.s3.ap-southeast-1.amazonaws.com/images/products/2024/05/Product/marshall-major-v-wireless-on-ear-headphone-side-view.jpg",
+      "src3": "https://mercular.s3.ap-southeast-1.amazonaws.com/images/products/2024/05/Product/marshall-major-v-wireless-on-ear-headphone-in-the-hand.jpg",
+      "link": "https://www.mercular.com/marshall-major-v-wireless-on-ear-headphone"
     },
     {
       "id": 2,
-      "name": "Product B",
-      "description": "Description of Product B",
-      "price": 200,
-      "color": "Black",
-      "src": "https://tailwindui.com/plus/img/ecommerce-images/category-page-04-image-card-02.jpg"
+      "name": "หูฟัง Soundcore R50i True Wireless White",
+      "description": "หูฟังไร้สาย มีไมค์ เชื่อมต่อผ่านบลูทูธ สามารถใช้งานร่วมกับ Application ได้",
+      "price": 599,
+      "color": "White",
+      "type": "headphone",
+      "src": "https://mercular.s3.ap-southeast-1.amazonaws.com/images/products/2023/07/2024071914393369051_1%20(1).jpeg",
+      "link": "https://www.mercular.com/soundcore-r50i-true-wireless#overview"
     },
     {
       "id": 3,
-      "name": "Product C",
-      "description": "Description of Product C",
-      "price": 300,
+      "name": "หูฟัง Soundcore C30i True Wireless Black",
+      "description": "หูฟัง True Wireless ไร้สาย กันน้ำ เหมากับการฟังเพลงอย่างที่สุด กันน้ำระดับ IPX4",
+      "price": 1990,
       "color": "Black",
-      "src": "https://tailwindui.com/plus/img/ecommerce-images/category-page-04-image-card-03.jpg"
+      "type": "headphone",
+      "src": "https://mercular.s3.ap-southeast-1.amazonaws.com/images/products/2024/05/Product/soundcore-c30i-true-wireless-front-view.jpg",
+      "src2": "https://mercular.s3.ap-southeast-1.amazonaws.com/images/products/2024/05/Product/soundcore-c30i-true-wireless-innovative-view.jpg",
+      "src3": "https://mercular.s3.ap-southeast-1.amazonaws.com/images/products/2024/05/Product/soundcore-c30i-true-wireless-side-view.jpg",
+      "link": "https://www.mercular.com/soundcore-c30i-true-wireless?sku=2377036000001"
     },
     {
       "id": 4,
-      "name": "Product C",
-      "description": "Description of Product C",
-      "price": 300,
+      "name": "หูฟัง Marshall Mode In-Ear Headphone",
+      "description": "หูฟัง In-Earโทนสีขาวสลับดำ การเชื่อมต่อ3.5 mm หรือ AUX-สายเชื่อมต่อเพื่อฟังเพลงกับอุปกรณ์ ประเภทมีสาย มีไมค์",
+      "price": 2409,
+      "sale": 44,
       "color": "Black",
-      "src": "https://tailwindui.com/plus/img/ecommerce-images/category-page-04-image-card-03.jpg"
+      "type": "headphone",
+      "src": "https://mercular.s3.ap-southeast-1.amazonaws.com/upload/products/2016/01/Marshall-Mode-In-Ear-Headphone-Black-Display.jpg",
+      "src2": "https://mercular.s3.ap-southeast-1.amazonaws.com/upload/products/2016/01/Marshall-Mode-In-Ear-Headphone-Black-Front.jpg",
+      "src3": "https://mercular.s3.ap-southeast-1.amazonaws.com/upload/products/2016/01/Marshall-Mode-In-Ear-Headphone-Black-Body.jpg",
+      "link": "https://www.mercular.com/marshall-mode-in-ear-headphone#content"
     },
     {
       "id": 5,
-      "name": "Product C",
-      "description": "Description of Product C",
-      "price": 300,
+      "name": "หูฟัง HIFIMAN Edition XS Over-Ear Headphone",
+      "description": "หูฟังมีสายครอบหูไดรเวอร์ Planar Magnetic เสียงสมจริงระดับ Hi-Fi น้ำหนักเพียง 405 กรัม สวมใส่สบาย ตัวหูฟังมาพร้อมไดรเวอร์แบบพิเศษที่เรียกว่า Planar Magnetic พร้อม NEO Supernano Diaphragm ที่ทำให้เสียงที่ได้นั้นมีคุณภาพสูงระดับ Hi-Fi มีรายละเอียดสมจริง",
+      "price": 17900,
+      "sale": 49,
       "color": "Black",
-      "src": "https://tailwindui.com/plus/img/ecommerce-images/category-page-04-image-card-03.jpg"
+      "type": "headphone",
+      "src": "https://mercular.s3.ap-southeast-1.amazonaws.com/images/products/2024/02/Product/hifiman-edition-xs-over-ear-headphone-front-right-view.jpg",
+      "src2": "https://mercular.s3.ap-southeast-1.amazonaws.com/images/products/2024/02/Product/hifiman-edition-xs-over-ear-headphone-front-right-upper-view.jpg",
+      "src3": "https://mercular.s3.ap-southeast-1.amazonaws.com/images/products/2024/02/Product/hifiman-edition-xs-over-ear-headphone-lifestyle.jpg",
+      "link": "https://www.mercular.com/hifiman-edition-xs-over-ear-headphone"
     },
     {
       "id": 6,
-      "name": "Product C",
-      "description": "Description of Product C",
-      "price": 300,
-      "color": "Black",
-      "src": "https://tailwindui.com/plus/img/ecommerce-images/category-page-04-image-card-03.jpg"
+      "name": "หูฟังไร้สาย Sony WH-1000XM4 Wireless Headphone Silver",
+      "description": "ตัดเสียงรบกวนระดับท๊อป มีเซนเซอร์ เล่น/หยุด เพลงเมื่อถอดและ Speak to Chat หยุดเพลงเมื่อพูดสนทนา แบตเตอรี่ใช้งานต่อเนื่อง 30 ชั่วโมง การใช้งาน Sony WH-1000XM4 เชื่อมต่อกับ Application เพื่อตั้งค่าต่าง ๆ",
+      "price": 13990,
+      "color": "Silver",
+      "type": "headphone",
+      "src": "https://mercular.s3.ap-southeast-1.amazonaws.com/images/products/2020/08/WH-1000XM4-6.jpg",
+      "src2": "https://mercular.s3.ap-southeast-1.amazonaws.com/images/products/2020/08/WH-1000XM4-7.jpg",
+      "src3": "https://mercular.s3.ap-southeast-1.amazonaws.com/images/products/2020/08/WH-1000XM4-9.jpg",
+      "link": "https://www.mercular.com/sony-wh-1000xm4-wireless-headphone?sku=1137132000002"
     },
     {
       "id": 7,
-      "name": "Product C",
-      "description": "Description of Product C",
-      "price": 300,
+      "name": "หูฟัง Marshall Motif II A.N.C. True Wireless Black",
+      "description": "True Wireless หูฟังทรง In-Ear ที่เน้นด้านคุณภาพเสียงโดยเฉพาะ แบตเตอรี่ที่อึดขึ้นกว่าเดิมกว่า 10 ชั่วโมง รับเสียงที่ดีกว่าเคยและพัฒนาระบบการตัดเสียงรบกวนให้ดีขึ้นกว่าเดิม ไดร์เวอร์ Dynamic ขนาด 6 มม. รองรับการเชื่อมต่อได้ 2 อุปกรณ์พร้อมกัน รองรับการชาร์จแบบไร้สาย รองรับการตั้งค่าเพิ่มเติมผ่านแอป Marshall Bluetooth App",
+      "price": 7490,
+      "sale": 11,
       "color": "Black",
-      "src": "https://tailwindui.com/plus/img/ecommerce-images/category-page-04-image-card-03.jpg"
+      "type": "headphone",
+      "src": "https://mercular.s3.ap-southeast-1.amazonaws.com/images/products/2023/09/Product/marshall-motif-ii-anc-true-wireless-black-front-view.jpg",
+      "src2": "https://mercular.s3.ap-southeast-1.amazonaws.com/images/products/2023/09/Product/marshall-motif-ii-anc-true-wireless-black-back-in-ear.jpg",
+      "src3": "https://mercular.s3.ap-southeast-1.amazonaws.com/images/products/2023/09/Product/marshall-motif-ii-anc-true-wireless-black-front-right-view.jpg",
+      "link": "https://www.mercular.com/marshall-motif-ii-anc-true-wireless"
+    },
+    {
+      "id": 8,
+      "name": "หูฟัง SoundPEATS Air4 Pro True Wireless Black ตัดเสียงรบกวนได้อย่างเงียบสนิท กันน้ำ แบตเตอรี่ใช้งานต่อเนื่อง 6.5 ชั่วโมง + 20 ชั่วโมงของเคส",
+      "description": "ขนาดกะทัดรัด สวมใส่สบายหู",
+      "price": 2690,
+      "color": "Black",
+      "type": "headphone",
+      "src": "https://mercular.s3.ap-southeast-1.amazonaws.com/images/products/2023/11/Product/soundpeats-air4-pro-true-wireless-black-front-view.jpg",
+      "src2": "https://mercular.s3.ap-southeast-1.amazonaws.com/images/products/2023/11/Product/soundpeats-air4-pro-true-wireless-black-anc.jpg",
+      "src3": "https://mercular.s3.ap-southeast-1.amazonaws.com/images/products/2023/11/Product/soundpeats-air4-pro-true-wireless-black-in-ear-detection.jpg",
+      "link": "https://www.mercular.com/soundpeats-air4-pro-true-wireless?sku=1740050000001#product-spec"
     }
   ]
   
